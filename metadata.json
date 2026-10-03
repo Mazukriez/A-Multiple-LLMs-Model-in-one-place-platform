@@ -1,0 +1,8 @@
+{
+  "name": "ModelFlow",
+  "description": "Build, test, and instantly deploy AI-generated applications all from one unified, seamless platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
